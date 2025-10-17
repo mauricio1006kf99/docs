@@ -14,7 +14,7 @@ import { AddressExplorerLink as AEL } from '@site/src/components/AddressExplorer
 
 | Contract             | Chain      | Address                                                                            |
 | -------------------- | ---------- | ---------------------------------------------------------------------------------- |
-| $ARB Token           | Arb One    | <AEL address = {"0x912CE59144191C1204E64559FE8253a0e49E6548"} chainID= {42161} />  |
+| $ARB Token           | Arb One    | <AEL address = {"0xd4c86cDd59Cfd0569127B40E09B9e14752b8f8D6"} chainID= {42161} />  |
 | $ARB Token (bridged) | Ethereum   | <AEL address = {"0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1"} chainID = {1} />     |
 | $ARB Token (bridged) | Nova       | <AEL address = {"0xf823C3cD3CeBE0a1fA952ba88Dc9EEf8e0Bf46AD"} chainID= {42170} />  |
 | $ARB Token (testnet) | Arb Sepolia| <AEL address = {"0xc275B23C035a9d4EC8867b47f55427E0bDCe14cB"} chainID= {421614} /> |
@@ -23,7 +23,7 @@ import { AddressExplorerLink as AEL } from '@site/src/components/AddressExplorer
 
 | Contract                         | Chain   | Address                                                                            |
 | -------------------------------- | ------- | ---------------------------------------------------------------------------------- |
-| Token Distributor\*              | Arb One | <AEL address = {"0x67a24CE4321aB3aF51c2D0a4801c3E111D88C9d9"} chainID = {42161} /> |
+| Token Distributor\*              | Arb One | <AEL address = {"0xd4c86cDd59Cfd0569127B40E09B9e14752b8f8D6"} chainID = {42161} /> |
 | DAO Treasury                     | Arb One | <AEL address = {"0xF3FC178157fb3c87548bAA86F9d24BA38E649B58"} chainID = {42161} /> |
 | Foundation Vesting Budget Wallet | Arb One | <AEL address = {"0x15533b77981cDa0F85c4F9a485237DF4285D6844"} chainID = {42161} /> |
 
